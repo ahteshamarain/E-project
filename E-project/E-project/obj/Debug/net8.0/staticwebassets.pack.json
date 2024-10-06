@@ -1,0 +1,1557 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AD.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AD.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AF.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AF.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AI.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AI.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AL.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AL.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AO.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AO.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AS.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AS.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AT.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AT.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AU.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AU.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AW.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AW.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AX.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AX.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\AZ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\AZ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BB.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BB.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BD.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BD.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BF.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BF.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BH.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BH.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BI.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BI.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BJ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BJ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BL.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BL.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BN.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BN.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BO.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BO.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BS.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BS.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BT.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BT.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BV.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BV.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BW.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BW.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BY.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BY.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\BZ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\BZ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CC.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CC.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CD.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CD.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CF.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CF.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CH.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CH.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CI.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CI.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CK.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CK.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CL.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CL.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CN.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CN.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CO.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CO.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CU.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CU.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CV.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CV.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CW.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CW.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CX.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CX.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CY.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CY.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\CZ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\CZ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\DE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\DE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\DJ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\DJ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\DK.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\DK.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\DM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\DM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\DO.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\DO.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\DZ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\DZ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\EC.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\EC.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\EE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\EE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\EG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\EG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ER.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ER.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ES.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ES.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ET.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ET.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\EU.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\EU.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\FI.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\FI.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\FJ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\FJ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\FK.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\FK.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\FM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\FM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\FO.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\FO.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\FR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\FR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GB-ENG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GB-ENG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GB-NIR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GB-NIR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GB-SCT.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GB-SCT.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GB-WLS.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GB-WLS.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GB-ZET.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GB-ZET.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GB.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GB.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GD.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GD.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GF.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GF.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GH.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GH.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GI.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GI.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GL.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GL.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GN.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GN.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GP.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GP.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GQ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GQ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GS.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GS.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GT.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GT.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GU.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GU.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GW.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GW.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\GY.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\GY.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\HK.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\HK.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\HM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\HM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\HN.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\HN.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\HR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\HR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\HT.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\HT.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\HU.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\HU.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ID.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ID.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\IE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\IE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\IL.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\IL.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\IM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\IM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\IN.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\IN.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\IO.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\IO.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\IQ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\IQ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\IR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\IR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\IS.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\IS.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\IT.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\IT.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\JE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\JE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\JM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\JM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\JO.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\JO.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\JP.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\JP.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\KE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\KE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\KG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\KG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\KH.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\KH.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\KI.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\KI.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\KM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\KM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\KN.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\KN.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\KP.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\KP.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\KR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\KR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\KW.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\KW.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\KY.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\KY.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\KZ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\KZ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\LA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\LA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\LB.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\LB.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\LC.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\LC.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\LGBT.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\LGBT.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\LI.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\LI.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\LK.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\LK.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\LR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\LR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\LS.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\LS.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\LT.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\LT.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\LU.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\LU.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\LV.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\LV.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\LY.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\LY.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MC.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MC.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MD.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MD.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ME.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ME.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MF.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MF.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MH.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MH.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MK.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MK.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ML.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ML.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MN.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MN.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MO.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MO.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MP.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MP.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MQ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MQ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MS.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MS.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MT.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MT.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MU.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MU.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MV.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MV.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MW.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MW.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MX.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MX.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MY.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MY.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\MZ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\MZ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\NA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\NA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\NC.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\NC.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\NE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\NE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\NF.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\NF.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\NG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\NG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\NI.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\NI.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\NL.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\NL.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\NO.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\NO.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\NP.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\NP.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\NR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\NR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\NU.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\NU.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\NZ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\NZ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\OM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\OM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PF.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PF.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PH.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PH.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PK.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PK.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PL.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PL.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PN.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PN.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PS.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PS.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PT.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PT.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PW.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PW.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\PY.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\PY.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\QA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\QA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\RE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\RE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\RO.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\RO.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\RS.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\RS.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\RU.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\RU.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\RW.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\RW.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SB.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SB.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SC.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SC.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SD.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SD.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SH.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SH.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SI.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SI.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SJ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SJ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SK.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SK.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SL.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SL.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SN.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SN.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SO.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SO.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SS.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SS.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ST.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ST.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SV.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SV.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SX.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SX.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SY.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SY.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\SZ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\SZ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TC.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TC.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TD.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TD.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TF.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TF.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TH.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TH.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TJ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TJ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TK.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TK.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TL.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TL.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TN.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TN.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TO.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TO.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TR.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TR.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TT.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TT.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TV.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TV.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TW.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TW.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\TZ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\TZ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\UA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\UA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\UG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\UG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\UM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\UM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\US-CA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\US-CA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\US.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\US.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\UY.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\UY.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\UZ.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\UZ.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\VA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\VA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\VC.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\VC.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\VE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\VE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\VG.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\VG.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\VI.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\VI.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\VN.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\VN.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\VU.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\VU.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\WF.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\WF.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\WS.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\WS.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\XK.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\XK.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\YE.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\YE.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\YT.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\YT.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ZA.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ZA.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ZM.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ZM.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ZW.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ZW.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\2008c7cc-40ca-4334-805b-86697262fcfb-removebg-preview.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\2008c7cc-40ca-4334-805b-86697262fcfb-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\Capture-removebg-preview (2).png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\Capture-removebg-preview (2).png"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\avatars\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatars\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\avatars\\10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatars\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\avatars\\12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatars\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\avatars\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatars\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\avatars\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatars\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\avatars\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatars\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\avatars\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatars\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\avatars\\6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatars\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\avatars\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatars\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\avatars\\8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatars\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\avatars\\9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\avatars\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\d (8).png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\d (8).png"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\dropdown-header\\abstract1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dropdown-header\\abstract1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\dropdown-header\\abstract10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dropdown-header\\abstract10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\dropdown-header\\abstract2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dropdown-header\\abstract2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\dropdown-header\\abstract3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dropdown-header\\abstract3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\dropdown-header\\abstract4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dropdown-header\\abstract4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\dropdown-header\\abstract5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dropdown-header\\abstract5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\dropdown-header\\abstract6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dropdown-header\\abstract6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\dropdown-header\\city1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dropdown-header\\city1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\dropdown-header\\city2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dropdown-header\\city2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\dropdown-header\\city3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dropdown-header\\city3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\dropdown-header\\city4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dropdown-header\\city4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\dropdown-header\\city5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\dropdown-header\\city5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\fe6fb9f4-9c4e-4dad-a626-4236ba136cee-removebg-preview.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\fe6fb9f4-9c4e-4dad-a626-4236ba136cee-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\icons-rtl.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\icons-rtl.gif"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\icons.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\icons.gif"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\images.jfif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\images.jfif"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\images1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\images1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\logo-inverse.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-inverse.png"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\originals\\city.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\originals\\city.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\originals\\citydark.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\originals\\citydark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\originals\\citynights.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\originals\\citynights.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\originals\\fence-small.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\originals\\fence-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\abstract1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\abstract1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\abstract10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\abstract10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\abstract2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\abstract2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\abstract3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\abstract3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\abstract4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\abstract4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\abstract5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\abstract5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\abstract6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\abstract6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\abstract7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\abstract7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\abstract8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\abstract8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\abstract9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\abstract9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\city1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\city1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\city2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\city2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\city3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\city3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\city4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\city4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\sidebar\\city5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\sidebar\\city5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\upscaled-2x-images1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\upscaled-2x-images1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\vline-rtl.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\vline-rtl.gif"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\images\\vline.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\vline.gif"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\assets\\scripts\\script.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\scripts\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\GOODLUCK\\Desktop\\E-project\\E-project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-project.props",
+      "PackagePath": "build\\E-project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-project.props",
+      "PackagePath": "buildMultiTargeting\\E-project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-project.props",
+      "PackagePath": "buildTransitive\\E-project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
